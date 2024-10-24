@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumHyeogICe';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumHyeogICe/NanumHyeogICe.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumHyeogICe/NanumHyeogICe.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumHyeogICe/NanumHyeogICe.ttf') format('truetype');
+}
